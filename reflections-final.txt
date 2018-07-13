@@ -1,0 +1,19 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+NOTE: After researching how to do a thick text underline, I came to the conclusion that such a feature in CSS is no longer supported. Therefore, I used a double-underline in its place. This was the only difficult part, as I wanted an exact replication of the mockup article per the requirements of the assignment. 
+
+I learned how to do superscript text, and that the <a> tag can be used to embed a hyperlink in a body of text included between the opening and closing tags. You still have to use href="..." within the opening tag. 
+
+Most of this assignment was easy for me, as I came in with prior knowledge and experience in HTML and CSS.
+
+I used Google as a resource whenever I didn't know something off the top of my head and overcame the problem. 
+
+- Also, I couldn't save the image featured in the mockup article provided, so I used the snipping tool and saved the image as a PNG file.   
